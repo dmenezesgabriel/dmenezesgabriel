@@ -16,7 +16,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Signal Arcade - Desafio 1](https://dmenezesgabriel.github.io/programa%C3%A7%C3%A3o/code-signal-arcade-1/)
+- [Code Signal Arcade - Desafio 1](https://dmenezesgabriel.github.io/programacao/code-signal-arcade-1/)
 - [Como instalar Ubuntu server no RaspberryPi](https://dmenezesgabriel.github.io/raspberrypi/ubuntu/como-instalar-ubuntu-raspberry-pi/)
 - [Configurando setup básico para programar no Ubuntu](https://dmenezesgabriel.github.io/programacao/configurando-setup-programacao-ubuntu/)
 - [Python para finanças: Obtendo cotações pelo yahoo finance](https://dmenezesgabriel.github.io/financas/python-financas-cotacoes-yahoo-finance/)
