@@ -16,10 +16,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Signal Arcade - Desafio 2](https://dmenezesgabriel.github.io/programacao/code-signal-arcade-2/)
 - [Code Signal Arcade - Desafio 1](https://dmenezesgabriel.github.io/programacao/code-signal-arcade-1/)
 - [Como instalar Ubuntu server no RaspberryPi](https://dmenezesgabriel.github.io/raspberrypi/ubuntu/como-instalar-ubuntu-raspberry-pi/)
 - [Configurando setup básico para programar no Ubuntu](https://dmenezesgabriel.github.io/programacao/configurando-setup-programacao-ubuntu/)
-- [Python para finanças: Obtendo cotações pelo yahoo finance](https://dmenezesgabriel.github.io/financas/python-financas-cotacoes-yahoo-finance/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
