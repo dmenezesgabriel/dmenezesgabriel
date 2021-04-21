@@ -16,10 +16,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Porque eu documentaria um diagrama de caso de uso?](https://dmenezesgabriel.github.io/documentacao/documentacao-de-casos-de-uso/)
 - [Github - Listagem de todos emojis](https://dmenezesgabriel.github.io/github/github-emojis/)
 - [Diário de bordo #1: Adventure Land, Apredendo JavaScript](https://dmenezesgabriel.github.io/programacao/adventure-land-aprendendo-javascript/)
 - [Code Signal Arcade - Desafio 2](https://dmenezesgabriel.github.io/programacao/code-signal-arcade-2/)
-- [Como instalar Ubuntu server no RaspberryPi](https://dmenezesgabriel.github.io/raspberrypi/ubuntu/como-instalar-ubuntu-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
