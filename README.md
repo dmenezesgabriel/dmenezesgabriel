@@ -16,10 +16,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Estimando orçamentos e cálculando custos de projetos](https://dmenezesgabriel.github.io/projetos/custos-orcamento-projetos/)
 - [Porque eu documentaria um diagrama de caso de uso?](https://dmenezesgabriel.github.io/documentacao/documentacao-de-casos-de-uso/)
 - [Quem é UX?](https://dmenezesgabriel.github.io/ux/introducao-user-experience-ux/)
 - [Github - Listagem de todos emojis](https://dmenezesgabriel.github.io/github/github-emojis/)
-- [Diário de bordo #1: Adventure Land, Apredendo JavaScript](https://dmenezesgabriel.github.io/programacao/adventure-land-aprendendo-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
