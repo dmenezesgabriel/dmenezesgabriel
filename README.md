@@ -16,7 +16,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Estimando orçamentos e cálculando custos de projetos](https://dmenezesgabriel.github.io/projetos/custos-orcamento-projetos/)
 - [Porque eu documentaria um diagrama de caso de uso?](https://dmenezesgabriel.github.io/documentacao/documentacao-de-casos-de-uso/)
 - [Quem é UX?](https://dmenezesgabriel.github.io/ux/introducao-user-experience-ux/)
