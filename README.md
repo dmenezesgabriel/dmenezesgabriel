@@ -16,10 +16,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Explanando com Tableau: Porquê alguns países são mais felizes que outros?](https://dmenezesgabriel.github.io/tableau/tableau-porque-paises-mais-felizes-que-outros/)
 - [Estimando orçamentos e cálculando custos de projetos](https://dmenezesgabriel.github.io/projetos/custos-orcamento-projetos/)
 - [Porque eu documentaria um diagrama de caso de uso?](https://dmenezesgabriel.github.io/documentacao/documentacao-de-casos-de-uso/)
 - [Quem é UX?](https://dmenezesgabriel.github.io/ux/introducao-user-experience-ux/)
-- [Github - Listagem de todos emojis](https://dmenezesgabriel.github.io/github/github-emojis/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmenezesgabriel&repo=jupyter-analytics&count_private=true&show_icons=true)](https://github.com/dmenezesgabriel/jupyter-analytics)
