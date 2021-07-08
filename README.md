@@ -16,7 +16,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Snippets HTML](https://dmenezesgabriel.github.io/web/html-snippets/)
+- [HTML, você usa todo dia, mas sabe o que é?](https://dmenezesgabriel.github.io/web/html-o-que-e/)
 - [Explanando com Tableau: Porquê alguns países são mais felizes que outros?](https://dmenezesgabriel.github.io/tableau/tableau-porque-paises-mais-felizes-que-outros/)
 - [Estimando orçamentos e cálculando custos de projetos](https://dmenezesgabriel.github.io/projetos/custos-orcamento-projetos/)
 - [Porque eu documentaria um diagrama de caso de uso?](https://dmenezesgabriel.github.io/documentacao/documentacao-de-casos-de-uso/)
